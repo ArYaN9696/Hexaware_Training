@@ -80,10 +80,12 @@ add age int
 alter table suspect
 add age int
 
-select c.incidentdate, v.name as victim_name, v.age as victim_age
-from crime c
-left join victim v on c.crimeid = v.crimeid
-order by v.age desc
+
+select  v.name as Victim_name ,v.age as victim_age, s.Name AS suspect_name,s.Age as suspect_age
+from Crime c
+left join Victim v on c.CrimeID = v.CrimeID
+left join Suspect s on c.CrimeID = s.CrimeID
+order by s.Age desc, v.age desc
 
 --6. Find the average age of persons involved in incidents.
 
