@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Id>1</Id>
+    <Title>Book One</Title>
+    <AuthorId>1</AuthorId>
+    <Price>19.99</Price>
+    <YearPublished>2001</YearPublished>
+  </Book>
+  <Book>
+    <Id>2</Id>
+    <Title>Book Two</Title>
+    <AuthorId>2</AuthorId>
+    <Price>15.99</Price>
+    <YearPublished>2005</YearPublished>
+  </Book>
+  <Book>
+    <Id>3</Id>
+    <Title>Book Three</Title>
+    <AuthorId>3</AuthorId>
+    <Price>25.99</Price>
+    <YearPublished>2010</YearPublished>
+  </Book>
+  <Book>
+    <Id>4</Id>
+    <Title>Book Four</Title>
+    <AuthorId>4</AuthorId>
+    <Price>10.99</Price>
+    <YearPublished>2015</YearPublished>
+  </Book>
+  <Book>
+    <Id>5</Id>
+    <Title>Book Five</Title>
+    <AuthorId>5</AuthorId>
+    <Price>18.99</Price>
+    <YearPublished>2020</YearPublished>
+  </Book>
+</ArrayOfBook>

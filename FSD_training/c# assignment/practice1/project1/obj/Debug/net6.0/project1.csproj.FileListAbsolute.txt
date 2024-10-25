@@ -1,0 +1,14 @@
+D:\hexaware training\fsd training\c#\Solution1\project1\bin\Debug\net6.0\project1.exe
+D:\hexaware training\fsd training\c#\Solution1\project1\bin\Debug\net6.0\project1.deps.json
+D:\hexaware training\fsd training\c#\Solution1\project1\bin\Debug\net6.0\project1.runtimeconfig.json
+D:\hexaware training\fsd training\c#\Solution1\project1\bin\Debug\net6.0\project1.dll
+D:\hexaware training\fsd training\c#\Solution1\project1\bin\Debug\net6.0\project1.pdb
+D:\hexaware training\fsd training\c#\Solution1\project1\obj\Debug\net6.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\hexaware training\fsd training\c#\Solution1\project1\obj\Debug\net6.0\project1.AssemblyInfoInputs.cache
+D:\hexaware training\fsd training\c#\Solution1\project1\obj\Debug\net6.0\project1.AssemblyInfo.cs
+D:\hexaware training\fsd training\c#\Solution1\project1\obj\Debug\net6.0\project1.csproj.CoreCompileInputs.cache
+D:\hexaware training\fsd training\c#\Solution1\project1\obj\Debug\net6.0\project1.dll
+D:\hexaware training\fsd training\c#\Solution1\project1\obj\Debug\net6.0\refint\project1.dll
+D:\hexaware training\fsd training\c#\Solution1\project1\obj\Debug\net6.0\project1.pdb
+D:\hexaware training\fsd training\c#\Solution1\project1\obj\Debug\net6.0\project1.genruntimeconfig.cache
+D:\hexaware training\fsd training\c#\Solution1\project1\obj\Debug\net6.0\ref\project1.dll
