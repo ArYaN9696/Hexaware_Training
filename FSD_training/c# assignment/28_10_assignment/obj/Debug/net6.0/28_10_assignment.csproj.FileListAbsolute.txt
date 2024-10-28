@@ -1,0 +1,14 @@
+D:\hexaware training\fsd training\c#\Solution1\28_10_assignment\bin\Debug\net6.0\28_10_assignment.exe
+D:\hexaware training\fsd training\c#\Solution1\28_10_assignment\bin\Debug\net6.0\28_10_assignment.deps.json
+D:\hexaware training\fsd training\c#\Solution1\28_10_assignment\bin\Debug\net6.0\28_10_assignment.runtimeconfig.json
+D:\hexaware training\fsd training\c#\Solution1\28_10_assignment\bin\Debug\net6.0\28_10_assignment.dll
+D:\hexaware training\fsd training\c#\Solution1\28_10_assignment\bin\Debug\net6.0\28_10_assignment.pdb
+D:\hexaware training\fsd training\c#\Solution1\28_10_assignment\obj\Debug\net6.0\28_10_assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\hexaware training\fsd training\c#\Solution1\28_10_assignment\obj\Debug\net6.0\28_10_assignment.AssemblyInfoInputs.cache
+D:\hexaware training\fsd training\c#\Solution1\28_10_assignment\obj\Debug\net6.0\28_10_assignment.AssemblyInfo.cs
+D:\hexaware training\fsd training\c#\Solution1\28_10_assignment\obj\Debug\net6.0\28_10_assignment.csproj.CoreCompileInputs.cache
+D:\hexaware training\fsd training\c#\Solution1\28_10_assignment\obj\Debug\net6.0\28_10_assignment.dll
+D:\hexaware training\fsd training\c#\Solution1\28_10_assignment\obj\Debug\net6.0\refint\28_10_assignment.dll
+D:\hexaware training\fsd training\c#\Solution1\28_10_assignment\obj\Debug\net6.0\28_10_assignment.pdb
+D:\hexaware training\fsd training\c#\Solution1\28_10_assignment\obj\Debug\net6.0\28_10_assignment.genruntimeconfig.cache
+D:\hexaware training\fsd training\c#\Solution1\28_10_assignment\obj\Debug\net6.0\ref\28_10_assignment.dll
